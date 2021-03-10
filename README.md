@@ -14,7 +14,8 @@ These scores have been collated into 2 dictionaries
 Dictionaries:
     alldictionary.pkl - A dictionary of keys (Countries) -> values (avg, sum, number empty, min, max) of score
 
-    catdictionary.pkl - A dictionary of key (categories) -> values (dictionary for datasets in that category). Each of those is same form as alldictionary.pkl.
+    catdictionary.pkl - A dictionary of key (categories) -> values (dictionary for datasets in that 
+    category). Each of those is same form as alldictionary.pkl.
 
 Deleting the dictionaries will get the program to recompute (doesn't take long)
 To get stats for a specific category, make a folder in datasets and put all the datasets you want
